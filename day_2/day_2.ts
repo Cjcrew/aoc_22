@@ -1,0 +1,1 @@
+const strategyGuide = await Deno.readTextFile("input.txt");
